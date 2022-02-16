@@ -2,6 +2,8 @@
 
 Deno Api to get the current cryptoprices in different currencies. The prices are used by the exchange <mark> Coinbase </mark>.
 
+You can find the documentation for the used API via the following link: https://developers.coinbase.com/api/v2#introduction
+
 ## Installation
 
 Import the crypto_price_api.ts file in your personal project
